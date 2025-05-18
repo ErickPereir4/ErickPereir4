@@ -91,7 +91,7 @@ Olá! Me chamo Erick Pereira da Silva, tenho 21 anos e sou de Brasília - DF. Fi
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    width="430px"
+    width="350px"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ErickPereir4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -100,7 +100,7 @@ Olá! Me chamo Erick Pereira da Silva, tenho 21 anos e sou de Brasília - DF. Fi
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width="430px"
+      width="350px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPereir4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
