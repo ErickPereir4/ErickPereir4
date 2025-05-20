@@ -86,7 +86,7 @@ Olá! Me chamo Erick Pereira da Silva, tenho 21 anos e sou de Brasília - DF. Fi
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
